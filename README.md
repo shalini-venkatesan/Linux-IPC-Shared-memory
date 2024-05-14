@@ -20,7 +20,7 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-Developed By:BARATHRAJ B
+Developed By: SHALINI V
 
 Reg No:212222240096
 ```
